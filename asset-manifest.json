@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/simplifierFrontend/static/css/main.5610764a.css",
-    "main.js": "/simplifierFrontend/static/js/main.276fbc2e.js",
+    "main.js": "/simplifierFrontend/static/js/main.cd6b1b57.js",
     "index.html": "/simplifierFrontend/index.html",
     "main.5610764a.css.map": "/simplifierFrontend/static/css/main.5610764a.css.map",
-    "main.276fbc2e.js.map": "/simplifierFrontend/static/js/main.276fbc2e.js.map"
+    "main.cd6b1b57.js.map": "/simplifierFrontend/static/js/main.cd6b1b57.js.map"
   },
   "entrypoints": [
     "static/css/main.5610764a.css",
-    "static/js/main.276fbc2e.js"
+    "static/js/main.cd6b1b57.js"
   ]
 }
